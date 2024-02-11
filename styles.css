@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+}
+
+.personal-details {
+    font-weight: bold;
+}
+
+.education-details {
+    font-weight: bold;
+}
+
+.work-details {
+    font-weight: bold;
+}
+
+#abgk-photo {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 45px;
+}
+
+.work-location {
+    margin: 10px;
+    font-weight: bold;
+}
